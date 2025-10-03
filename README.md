@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosseinenayati&" alt="amirhosseinenayati" /></p>
 
 ## 📫 How to Reach Me  
-- **Email:** enayati.amirhossein@gmail.com 
-- **LinkedIn:** https://www.linkedin.com/in/enayati-amirh/details/experience/  
+- **Email:** enayati.amirh@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/enayati-amirh
 
 ---
